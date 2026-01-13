@@ -100,7 +100,7 @@ This GitHub serves as a **professional engineering portfolio**, highlighting sel
 ## 📬 Contact
 
 - **LinkedIn:** [_(Adi_Abekasis)_ ](https://www.linkedin.com/in/adi-abekasis-0bab98226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- **Email:** _(add email)_  
+- **Email:** adiabekasis2@gmail.com 
 
 > This GitHub reflects ongoing professional growth in ASIC test and characterization.  
 > Repositories evolve as new challenges and silicon learnings emerge.
