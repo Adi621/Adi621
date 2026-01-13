@@ -1,101 +1,115 @@
-# Tic Tac Toe – Python Console Game
+# ⚡ Adi Abekasis | ASIC Test & Characterization Engineer
 
-This repository contains a Python implementation of the classic **Tic Tac Toe**
-game played in the console.
+Electrical & Computer Engineer with **~4 years of hands-on experience** in **ASIC test, characterization, Qualification and Reliability Silicon validation**.  
+Strong background in **memory subsystems, reliability testing, and data-driven analysis**, combining **hardware insight** with **automation and analytics skills**.
 
-The game supports:
-- Two human players
-- Human vs computer (with a simple intelligent strategy)
+This GitHub serves as a **professional engineering portfolio**, highlighting selected projects that reflect **real-world silicon challenges**, test methodologies, and post-silicon workflows.
 
 ---
 
-## Features
+## 🧩 Professional Focus
 
-- Interactive console-based interface
-- Clear visual representation of the game board
-- Input validation and error handling
-- Scoreboard tracking across multiple games
-- Computer opponent with basic strategy:
-  - Prioritizes winning moves
-  - Blocks opponent’s winning moves
-  - Prefers corner positions in early game
+- **ASIC Test Engineering**
+  - Post-silicon validation & bring-up
+  - Functional, stress, and corner testing
+  - Debugging at block and SoC level
 
----
+- **Characterization & Reliability**
+  - ELFR, LTOL, HTOL, Aging test temperature sweeps (Cold / Room / Hot)
+  - Margin analysis & failure trend tracking
+  - Data consistency across long-term stress tests
 
-## Game Modes
-
-### 1️⃣ Player vs Player
-- Two human players take turns
-- Players can choose to play as **X** or **O**
-- Scoreboard is updated after each game
-
-### 2️⃣ Player vs Computer
-- Human player competes against the computer
-- Computer uses a rule-based “smart move” strategy
-- Game continues until the player chooses to quit
+- **Memory & Controllers**
+  - Experience with memory controllers in complex systems
+  - Pattern-based testing and behavioral analysis
+  - Understanding of timing, voltage, and environmental sensitivities
 
 ---
 
-## How to Play
+## 🔬 Engineering Skill Set
 
-1. Run the script:
-   ```bash
-   python tic_tac_toe.py
+### Test & Validation
+- Test flow development & execution
+- Failure reproduction and root-cause analysis
+- Cross-temperature and cross-condition comparison
+- Data correlation between test intervals
 
+### Data & Automation
+- Python-based analysis pipelines
+- Test result preprocessing & aggregation
+- Statistical evaluation of large test datasets
+- Visualization for engineering decision support
 
-## Choose game mode:
+### Systems Thinking
+- Translating silicon behavior into measurable metrics
+- Identifying weak points under stress conditions
+- Bridging between test results and design intent
 
-Press 1 to play against a friend
+---
 
-Press any other key to play against the computer
+## 📁 Selected Project Domains
 
-Choose your symbol (X or O)
+### 🔹 Post-HTOL Test Data Analysis
+**Predictive and analytical work on long-duration stress tests**
+- Multi-readout analysis (early → late life behavior)
+- Feature extraction from test logs
+- Predicting and identifying degradation trends across temperatures
 
+📂 `post_htol_analysis/`
 
-## Enter a number from 1 to 9 to place your move:
-    7 | 8 | 9
-    ---------
-    4 | 5 | 6
-    ---------
-    1 | 2 | 3
+---
 
+### 🔹 ASIC Test Data Processing & Modeling
+**Engineering-oriented data analysis**
+- Cleaning and structuring raw tester outputs
+- Correlation between test phases
+- Preparing data for characterization insights
 
-## The game announces:
+📂 `asic_test_data_pipeline/`
 
-Win
+---
 
-Draw
+### 🔹 Academic & Algorithmic Foundations
+**Strong theoretical base supporting practical work**
+- Signal processing & statistics
+- Optimization and decision models
+- Applied machine learning for engineering data
 
-Updated scoreboard
+📂 `engineering_foundations/`
 
-## Code Structure
+---
 
-print_tic_tac_toe() – Displays the board
+## 🧠 Engineering Philosophy
 
-check_win() – Checks all winning combinations
+- **Data over assumptions** – conclusions backed by measurements
+- **Reproducibility matters** – deterministic, traceable workflows
+- **Understand the silicon** – not just pass/fail, but *why*
+- **Production mindset** – scalable, maintainable solutions
 
-check_draw() – Detects draw condition
+---
 
-single_game() – Player vs player logic
+## 🛠️ Tools & Technologies
 
-single_gameComputer() – Player vs computer logic
+- **Languages:** Python, VB, VBA, MATLAB, JMP-JSL  
+- **Analysis:** pandas, numpy, matplotlib, scikit-learn  
+- **Test & Validation:** Pattern analysis, stress testing methodologies  
+- **Environment:** Linux, Git, Jupyter, Visual Studio  
 
-smartmove() – Computer move selection logic
+---
 
-## Technologies Used
+## 👀 What Recruiters Will Find Here
 
-Python
+✔ Engineering-driven projects 
+✔ Focus on **test logic, reliability, and data integrity**  
+✔ Clear structure and documentation  
+✔ Evidence of **hands-on silicon work**  
 
-Standard library (random)
+---
 
-Console input/output
+## 📬 Contact
 
-## Design Notes
+- **LinkedIn:** _(add link)_  
+- **Email:** _(add email)_  
 
-The board is represented as a list of 9 elements
-
-Player positions are tracked using dictionaries
-
-Computer logic uses rule-based decision making
-(not Minimax, but deterministic and readable)
-
+> This GitHub reflects ongoing professional growth in ASIC test and characterization.  
+> Repositories evolve as new challenges and silicon learnings emerge.
