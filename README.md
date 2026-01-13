@@ -97,15 +97,6 @@ This GitHub serves as a **professional engineering portfolio**, highlighting sel
 
 ---
 
-## 👀 What Recruiters Will Find Here
-
-✔ Engineering-driven projects 
-✔ Focus on **test logic, reliability, and data integrity**  
-✔ Clear structure and documentation  
-✔ Evidence of **hands-on silicon work**  
-
----
-
 ## 📬 Contact
 
 - **LinkedIn:** _(add link)_  
