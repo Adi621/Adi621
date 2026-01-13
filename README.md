@@ -51,10 +51,8 @@ Press any other key to play against the computer
 
 Choose your symbol (X or O)
 
-Enter a number from 1 to 9 to place your move:
+## Enter a number from 1 to 9 to place your move:
 
-
-Copy code
 7 | 8 | 9
 ---------
 4 | 5 | 6
