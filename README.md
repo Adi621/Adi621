@@ -53,12 +53,12 @@ Choose your symbol (X or O)
 
 
 Enter a number from 1 to 9 to place your move:
-
-7 | 8 | 9
----------
-4 | 5 | 6
----------
-1 | 2 | 3
+  ```bash
+  7 | 8 | 9
+  ---------
+  4 | 5 | 6
+  ---------
+  1 | 2 | 3
 
 
 ## The game announces:
