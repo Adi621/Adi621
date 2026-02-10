@@ -99,7 +99,8 @@ This GitHub serves as a **professional engineering portfolio**, highlighting sel
 
 ## 📬 Contact
 
-- **LinkedIn:** [_(Adi_Abekasis)_ ](https://www.linkedin.com/in/adi-abekasis-0bab98226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- **LinkedIn:** [_(Adi_Abekasis)_ ](https://www.linkedin.com/in/adi-abekasis-0bab98226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **My CV Site:** [Adi Abekasis](https://adi-resume-web.netlify.app/)
 - **Email:** adiabekasis2@gmail.com 
 
 > This GitHub reflects ongoing professional growth in ASIC test and characterization.  
