@@ -1,6 +1,6 @@
 # ⚡ Adi Abekasis | ASIC Test & Characterization Engineer
 
-Electrical & Computer Engineer with **~4 years of hands-on experience** in **ASIC test, characterization, Qualification and Reliability Silicon validation**.  
+Electrical & Computer Engineer with **4 years of hands-on experience** in **ASIC test, characterization, Qualification and Reliability Silicon validation**.  
 Strong background in **memory subsystems, reliability testing, and data-driven analysis**, combining **hardware insight** with **automation and analytics skills**.
 
 This GitHub serves as a **professional engineering portfolio**, highlighting selected projects that reflect **real-world silicon challenges**, test methodologies, and post-silicon workflows.
